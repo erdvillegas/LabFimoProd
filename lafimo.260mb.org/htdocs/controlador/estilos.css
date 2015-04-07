@@ -1,0 +1,113 @@
+<style type="text/css">
+
+
+
+/*Clase boton para agregar o detalle*/
+.agregar{
+width:70px;
+height: 70px;
+display: block ;
+border-radius:30px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+-khtml-border-radius:35px;
+font-size:20px;
+color #fff;
+line-height:65px;
+text-align:center;
+background:#7d1;
+text-align:center;
+align =center;
+}
+
+
+.detalle{
+width:70px;
+height: 70px;
+display: block ;
+border-radius:30px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+-khtml-border-radius:35px;
+font-size:20px;
+color #fff;
+line-height:65px;
+text-align:center;
+background:#F61}	
+
+.modificar{
+width:70px;
+height: 70px;
+display: block ;
+border-radius:30px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+-khtml-border-radius:35px;
+font-size:20px;
+color #fff;
+line-height:65px;
+text-align:center;
+background:#F61}	
+
+.eliminar{
+width:70px;
+height: 70px;
+display: block ;
+border-radius:30px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+-khtml-border-radius:35px;
+font-size:20px;
+color:#FF0000
+line-height:65px;
+text-align:center;
+background:#F61}	
+
+/*Clase del texto de los mensajes*/
+.info {
+padding size: 2;
+text-align: center;
+font-size: 20;
+alignment-adjust: central;
+text-align: center;  
+}
+
+/*Clase del texto de los mensajes de error*/
+.error {
+text-align:center;
+font-size:30px;
+color: #FF0000;
+font:Georgia, "Arial, Times", serif;
+font-style:inherit;
+<strong>
+}
+
+.brigeliminada {
+text-align:center;
+font-size:30px;
+color:	#0000FF;
+font:Georgia, "Arial, Times", serif;
+font-style:inherit;
+<strong>
+}
+
+
+a:link{
+color: #FF0000;
+
+}
+a:visited{
+color: #FF0000;
+text-shadow:#FF0000:
+}
+
+a:hover{
+text-decoration: blink;
+top:auto;
+background: #99FF33;
+text-shadow: #6600FF;
+box-shadow: 10px 10px 10px #888888;
+
+}
+
+</style>

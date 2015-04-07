@@ -1,0 +1,22 @@
+<script> 
+
+var r=window.confirm('Desea eliminar los registros');
+if(r){
+
+var c=window.confirm('Realmente desea eliminar los registros');
+if(c){
+var dir='limpiar.php'; 
+var ps=window.prompt('Ingrese su password');
+var el='?psw='+ps;
+location=dir+el;
+document.write('Location <b>href</b>: ' + location.href  + '<br>'); 
+}else{}
+
+}else{ window.alert('Los datos no se modificaron');
+var dir='../vista/maestros_ad.php'; 
+location=dir;
+document.write('Location <b>href</b>: ' + location.href  + '<br>'); 
+
+
+}
+</script>
